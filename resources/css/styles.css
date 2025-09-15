@@ -81,6 +81,24 @@ h4 {
     width: 300px;
     margin: 10px;
 }
+
 .tea-thumbnail img{
     height: 200px;
+}
+
+.locations {
+    height: 500px;
+    width: 1200px;
+    background-image: url("../images/img-locations-background.jpg");
+}
+.contact {
+    height: 200px;
+    text-align: center;
+}
+
+.copyright {
+    margin-left: 20px;
+}
+h5 {
+    font-size: 20px;
 }
